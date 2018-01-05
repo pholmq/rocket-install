@@ -1,8 +1,8 @@
 {
-    "name": "forever/framework",
-    "description": "Forever scandinavia core",
-    "keywords": ["Forever living products"],
-    "homepage": "https://source.foreverliving.se",
+    "name": "rocket/rocket-install",
+    "description": "Rocket",
+    "keywords": ["Rocket"],
+    "homepage": "https://rocketshop.io",
     "authors": [
         {
             "name": "Forever Living Products Scandinavia",
