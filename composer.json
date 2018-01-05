@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Forever\\": "../../../src/",
+            "Forever\\": "../../../forever/src/",
             "Forever\\Admin\\": "../../../forever/packages/Admin/src/",
             "Forever\\Behaviour\\Buyable\\": "../../../forever/packages/Behaviour/Buyable/src/",
             "Forever\\Behaviour\\Commentable\\": "../../../forever/packages/Behaviour/Commentable/src/",
