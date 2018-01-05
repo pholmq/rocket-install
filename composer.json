@@ -1,0 +1,69 @@
+{
+    "name": "forever/framework",
+    "description": "Forever scandinavia core",
+    "keywords": ["Forever living products"],
+    "homepage": "https://source.foreverliving.se",
+    "authors": [
+        {
+            "name": "Forever Living Products Scandinavia",
+            "email": "source@foreverliving.se"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "tcg/voyager": "dev-master"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Forever\\": "../../../src/",
+            "Forever\\Admin\\": "../../../forever/packages/Admin/src/",
+            "Forever\\Behaviour\\Buyable\\": "../../../forever/packages/Behaviour/Buyable/src/",
+            "Forever\\Behaviour\\Commentable\\": "../../../forever/packages/Behaviour/Commentable/src/",
+            "Forever\\Behaviour\\Contactable\\": "../../../forever/packages/Behaviour/Contactable/src/",
+            "Forever\\Behaviour\\Crudable\\": "../../../forever/packages/Behaviour/Crudable/src/",
+            "Forever\\Behaviour\\Inheritable\\": "../../../forever/packages/Behaviour/Inheritable/src/",
+            "Forever\\Behaviour\\Mailable\\": "../../../forever/packages/Behaviour/Mailable/src/",
+            "Forever\\Utility\\Messages\\": "../../../forever/packages/Utility/Messages/src/",
+            "Forever\\Utility\\Translations\\": "../../../forever/packages/Utility/Translations/src/",
+            "Forever\\Utility\\Agreements\\": "../../../forever/packages/Utility/Agreements/src/",
+            "Rocket\\Voyager\\": "../../../forever/packages/Rocket/Voyager/src/",
+            "Rocket\\Cart\\": "../../../forever/packages/Rocket/Cart/src/",
+            "Rocket\\Order\\": "../../../forever/packages/Rocket/Order/src/",
+            "Rocket\\Checkout\\": "../../../forever/packages/Rocket/Checkout/src/",
+            "Rocket\\Store\\": "../../../forever/packages/Rocket/Store/src/",
+            "Rocket\\Customer\\": "../../../forever/packages/Rocket/Customer/src/",
+            "Rocket\\Vat\\": "../../../forever/packages/Rocket/Vat/src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "*"
+        }
+    },
+    "suggest": {
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Forever\\Providers\\ForeverServiceProvider"
+            ]
+        }
+    },
+    "repositories": {
+        "hooks": {
+            "type": "composer",
+            "url": "https://larapack.io"
+        },
+        "rocket/voyager": {
+            "type": "vcs",
+            "url": "https://github.com/rocketshop/voyager.git"
+        }
+    }
+}
