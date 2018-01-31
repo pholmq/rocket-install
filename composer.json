@@ -34,6 +34,7 @@
             "Rocket\\Checkout\\": "../../../forever/packages/Rocket/Checkout/src/",
             "Rocket\\Store\\": "../../../forever/packages/Rocket/Store/src/",
             "Rocket\\Customer\\": "../../../forever/packages/Rocket/Customer/src/",
+            "Rocket\\Base\\": "../../../forever/packages/Rocket/Base/src/",
             "Rocket\\Vat\\": "../../../forever/packages/Rocket/Vat/src/"
         }
     },
