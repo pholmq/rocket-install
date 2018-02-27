@@ -42,7 +42,7 @@
             "Rocket\\Base\\": "../../../forever/packages/Rocket/Base/src/",
             "Rocket\\Vat\\": "../../../forever/packages/Rocket/Vat/src/",
             "Rocket\\PaymentMethod\\": "../../../forever/packages/Rocket/PaymentMethod/src/",
-            "Rocket\\Request\\": "../../../forever/packages/Rocket/Request/src/"
+            "Rocket\\Adapter\\": "../../../forever/packages/Rocket/Adapter/src/"
         }
     },
     "extra": {
