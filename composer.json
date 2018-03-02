@@ -42,7 +42,7 @@
             "Rocket\\Base\\": "../../../forever/packages/Rocket/Base/src/",
             "Rocket\\Vat\\": "../../../forever/packages/Rocket/Vat/src/",
             "Rocket\\PaymentMethod\\": "../../../forever/packages/Rocket/PaymentMethod/src/",
-            "Rocket\\PaymentMethod\\": "../../../forever/packages/Rocket/ShippingMethod/src/",
+            "Rocket\\ShippingMethod\\": "../../../forever/packages/Rocket/ShippingMethod/src/",
             "Rocketpay\\": "../../../forever/packages/Rocketpay/src/",
             "Rocketship\\": "../../../forever/packages/Rocketship/src/"
         }
