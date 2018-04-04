@@ -24,6 +24,7 @@
             "Forever\\": "../../../forever/src/",
             "Forever\\Admin\\": "../../../forever/packages/Admin/src/",
             "Forever\\Api\\": "../../../forever/packages/Api/src/",
+            "Forever\\ImageBank\\": "../../../forever/packages/ImageBank/src/",
             "Forever\\Behaviour\\Buyable\\": "../../../forever/packages/Behaviour/Buyable/src/",
             "Forever\\Behaviour\\Commentable\\": "../../../forever/packages/Behaviour/Commentable/src/",
             "Forever\\Behaviour\\Contactable\\": "../../../forever/packages/Behaviour/Contactable/src/",
