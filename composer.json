@@ -72,10 +72,6 @@
         "hooks": {
             "type": "composer",
             "url": "https://larapack.io"
-        },
-        "rocket/voyager": {
-            "type": "vcs",
-            "url": "https://github.com/rocketshop/voyager.git"
         }
     }
 }
