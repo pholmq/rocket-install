@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "tcg/voyager": "^1.0",
+        "tcg/voyager": "^1.0.0",
         "klarna/checkout": "4.0",
         "klarna/php-xmlrpc": "4.0",
         "klarna/kco_rest": "^2.2",
