@@ -25,7 +25,7 @@
             "Forever\\Admin\\": "../../../forever/packages/Admin/src/",
             "Forever\\Api\\": "../../../forever/packages/Api/src/",
             "Forever\\ImageBank\\": "../../../forever/packages/ImageBank/src/",
-            "Forever\\Agreement\\": "../../../forever/packages/Agreement/src/",
+            "Rocket\\Agreement\\": "../../../forever/packages/Rocket/Agreement/src/",
             "Rocket\\Voyager\\": "../../../forever/packages/Rocket/Voyager/src/",
             "Rocket\\Cart\\": "../../../forever/packages/Rocket/Cart/src/",
             "Rocket\\Order\\": "../../../forever/packages/Rocket/Order/src/",
