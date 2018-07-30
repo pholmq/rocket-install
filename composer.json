@@ -15,7 +15,8 @@
         "klarna/checkout": "4.0",
         "klarna/php-xmlrpc": "4.0",
         "klarna/kco_rest": "^2.2",
-        "league/fractal": "^0.14.0"
+        "league/fractal": "^0.14.0",
+        "tecnickcom/tcpdf": "6.2.17"
     },
     "require-dev": {
     },
