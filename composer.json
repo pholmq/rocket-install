@@ -16,7 +16,7 @@
         "klarna/php-xmlrpc": "4.0",
         "klarna/kco_rest": "^2.2",
         "league/fractal": "^0.14.0",
-        "elibyy/tcpdf-laravel": "5.6.0"
+        "elibyy/tcpdf-laravel": "5.5.0"
     },
     "require-dev": {
     },
