@@ -30,6 +30,7 @@
             "Rocket\\Voyager\\": "../../../forever/packages/Rocket/Voyager/src/",
             "Rocket\\Cart\\": "../../../forever/packages/Rocket/Cart/src/",
             "Rocket\\Order\\": "../../../forever/packages/Rocket/Order/src/",
+            "Rocket\\News\\": "../../../forever/packages/Rocket/News/src/",
             "Rocket\\Checkout\\": "../../../forever/packages/Rocket/Checkout/src/",
             "Rocket\\Store\\": "../../../forever/packages/Rocket/Store/src/",
             "Rocket\\Blog\\": "../../../forever/packages/Rocket/Blog/src/",
